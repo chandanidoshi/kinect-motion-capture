@@ -10,5 +10,6 @@ Using the Kinect for Windows SDK v1.0, we were able to detect the 20 joints of a
 The example of our project can be found <a href="https://www.youtube.com/watch?v=H7Ow2yNyVAA"> here </a>.
 
 ## Collaborators
-Evan Denmark and Chandani Doshi
+Evan Denmark
+<br>Chandani Doshi
 
